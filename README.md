@@ -37,7 +37,7 @@ IMPORTANT: You must replace the placeholder credentials with your actual Relevan
 
 1. Log in to RelevanceAI: Visit RelevanceAI
 2. Get Your Credentials: Navigate to your project settings
-3. Find the Configuration Section in the code (around line 850):
+3. Find the Configuration Section in the code (around line 1530):
     ```php
     // 🔑 REPLACE THESE WITH YOUR ACTUAL RELEVANCE AI CREDENTIALS
     $this->project_id = 'YOUR_PROJECT_ID_HERE';     // Replace with your project ID
