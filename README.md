@@ -83,7 +83,7 @@ You can customize the chatbot by modifying the configuration in the `relevance_a
 
 - Everything is contained in one PHP file — no JS or CSS dependencies
 
-- Ideal for minimal deployments, demos, or fast LLM integrations into WordPress
+- 
 
 
 ---------------------
@@ -97,10 +97,10 @@ You can customize the chatbot by modifying the configuration in the `relevance_a
 
 - Knowledge base bots 📚 → FAQ-style support chatbot
 
-  📜 License
+## 📜 License
 
 -This project is open-source under the MIT License.
 
-🤝 Contributions
+## 🤝 Contributions
 
 - Feel free to open issues, suggest features, or submit pull requests. Let’s build smarter web experiences together!
