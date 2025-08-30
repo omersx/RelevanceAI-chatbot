@@ -1,6 +1,6 @@
 # 🧠 RelevanceAI Chatbot for WordPress
 A professional, customizable AI chatbot widget powered by RelevanceAI that integrates seamlessly with WordPress websites.
-💪 the chatbot using Relevance AI Retrieval-Augmented Generation (RAG) service 🚀.
+##### 💪 the chatbot using Relevance AI Retrieval-Augmented Generation (RAG) service 🚀.
 This chatbot can fetch, retrieve, and generate answers from your WordPress content or external knowledge base, making your website more interactive and intelligent.
 
 # 📷 UI Previews
