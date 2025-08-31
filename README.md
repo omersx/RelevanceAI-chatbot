@@ -52,6 +52,24 @@ IMPORTANT: You must replace the placeholder credentials with your actual Relevan
 `YOUR_REGION_ID_HERE` → Your actual region ID (e.g., 'd7b62b')
 
 
+
+### 📌 Notes
+
+- Relevance Ai in free plan is limated is provide you daily credit to use the service
+- sing up in Relevance Ai create agent and setup your rag then create your API Key
+####  for easy setup use ready template agent sing up with this link : https://app.relevanceai.com/agents/bcbe5a/6b8c8ef52cf7-40db-93cf-3d437f38ab7e/db4b5fa6-23b1-4a8c-9f89-f5d7a6fb27df/clone
+
+  #### the Agent Dashboard look like :
+  <img width="1920" height="899" alt="Screenshot (285)_upscayl_1x_upscayl-standard-4x" src="https://github.com/user-attachments/assets/986738bf-1674-4107-810f-1550e7e64f39" />
+
+- you can find the Project ID , Agent ID and Rigon ID in link above in the browser  of  agent dashboared , that look like :
+  
+   <img width="3840" height="920" alt="Screenshot (286)_upscayl_2x_upscayl-standard-4x" src="https://github.com/user-attachments/assets/8eb9b4d6-cd87-47bd-ad78-184f34d739cd" />
+
+- for the full tutorial check it in YouTube :
+  
+    https://youtu.be/jKXbm1zN4wk?si=GTsQIM3nmu112KBx
+
 -----------------
 
 ## 🎨 Customization Options
@@ -78,12 +96,6 @@ You can customize the chatbot by modifying the configuration in the `relevance_a
   - Efficient: Optimized JavaScript and CSS
   - Caching-friendly: Static assets can be cached
   - Mobile-optimized: Fast performance on mobile devices
-
-### 📌 Notes
-
-- Everything is contained in one PHP file — no JS or CSS dependencies
-
-- 
 
 
 ---------------------
