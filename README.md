@@ -52,6 +52,8 @@ IMPORTANT: You must replace the placeholder credentials with your actual Relevan
 `YOUR_REGION_ID_HERE` → Your actual region ID (e.g., 'd7b62b')
 
 
+-----------
+
 
 ### 📌 Notes
 
@@ -60,17 +62,22 @@ IMPORTANT: You must replace the placeholder credentials with your actual Relevan
 ####  for easy setup use ready template agent sing up with this link : https://app.relevanceai.com/agents/bcbe5a/6b8c8ef52cf7-40db-93cf-3d437f38ab7e/db4b5fa6-23b1-4a8c-9f89-f5d7a6fb27df/clone
 
   #### the Agent Dashboard look like :
-  <img width="1920" height="899" alt="Screenshot (285)_upscayl_1x_upscayl-standard-4x" src="https://github.com/user-attachments/assets/986738bf-1674-4107-810f-1550e7e64f39" />
 
-- you can find the Project ID , Agent ID and Rigon ID in link above in the browser  of  agent dashboared , that look like :
+  <img width="984" height="482" alt="New Project (24)" src="https://github.com/user-attachments/assets/8d51ce3c-bd7d-469b-a56d-232a5f843d6a" />
+
+
+### - you can find the Project ID , Agent ID and Rigon ID in link above in the browser of agent dashboard , that look like :
   
    <img width="3840" height="920" alt="Screenshot (286)_upscayl_2x_upscayl-standard-4x" src="https://github.com/user-attachments/assets/8eb9b4d6-cd87-47bd-ad78-184f34d739cd" />
 
 - for the full tutorial check it in YouTube :
   
     https://youtu.be/jKXbm1zN4wk?si=GTsQIM3nmu112KBx
+  
 
------------------
+--------------------
+
+
 
 ## 🎨 Customization Options
 
