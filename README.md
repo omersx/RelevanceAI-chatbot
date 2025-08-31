@@ -72,7 +72,7 @@ IMPORTANT: You must replace the placeholder credentials with your actual Relevan
 
 ### - for the full tutorial check it in YouTube :
   
-https://youtu.be/jKXbm1zN4wk?si=GTsQIM3nmu112KBx
+https://youtu.be/jKXbm1zN4wk?si=6TWSvR9wzcz27aWk
   
 
 --------------------
