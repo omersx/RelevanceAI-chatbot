@@ -19,6 +19,7 @@ Lightweight php-based AI assistant widget for WordPress powered by RelevanceAi r
 - 🌐 Easily embeddable on WordPress pages or posts
 - 🎨 Fully Customizable: Colors, position, messages, and themes
 - 📱 Mobile Responsive: Optimized for all device sizes
+- ⚡ Relevance Ai offers MCP server and more advanced services
 
 ## 📥 Installation & Usage
 
@@ -57,7 +58,7 @@ IMPORTANT: You must replace the placeholder credentials with your actual Relevan
 
 ### 📌 Notes
 
-- Relevance Ai in free plan is limated is provide you daily credit to use the service
+- Relevance Ai in free plan is limited that provide you daily credit to use the service but limited to few messages per day.so you have to upgrade for more use,
 - sing up in Relevance Ai create agent and setup your rag then create your API Key
 ####  for easy setup use ready template agent sing up with this link : https://app.relevanceai.com/agents/bcbe5a/6b8c8ef52cf7-40db-93cf-3d437f38ab7e/db4b5fa6-23b1-4a8c-9f89-f5d7a6fb27df/clone
 
@@ -66,7 +67,7 @@ IMPORTANT: You must replace the placeholder credentials with your actual Relevan
   <img width="984" height="482" alt="New Project (24)" src="https://github.com/user-attachments/assets/8d51ce3c-bd7d-469b-a56d-232a5f843d6a" />
 
 
-### - you can find the Project ID , Agent ID and Rigon ID in link above in the browser of agent dashboard , that look like :
+###  you can find the Project ID , Agent ID and Region ID in link above in the browser of agent dashboard , that look like :
   
    <img width="3840" height="920" alt="Screenshot (286)_upscayl_2x_upscayl-standard-4x" src="https://github.com/user-attachments/assets/8eb9b4d6-cd87-47bd-ad78-184f34d739cd" />
 
