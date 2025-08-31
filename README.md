@@ -70,7 +70,7 @@ IMPORTANT: You must replace the placeholder credentials with your actual Relevan
   
    <img width="3840" height="920" alt="Screenshot (286)_upscayl_2x_upscayl-standard-4x" src="https://github.com/user-attachments/assets/8eb9b4d6-cd87-47bd-ad78-184f34d739cd" />
 
-- for the full tutorial check it in YouTube :
+### - for the full tutorial check it in YouTube :
   
     https://youtu.be/jKXbm1zN4wk?si=GTsQIM3nmu112KBx
   
